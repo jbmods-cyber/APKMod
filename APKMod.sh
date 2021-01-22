@@ -28,14 +28,14 @@ echo
 echo $i"SEMOGA ANDA SUKA & BERMANFAAT"
 echo
 sleep 3
-echo $pu"[======================]"
+echo $pu"==================="
 echo $pu" $me Loading Cokk..."
-echo $pu"[======================]"
+echo $pu"==================="
 sleep 4
 echo
-echo $i" ______________________________"
-echo $i"|$pu SILAHKAN PILIH APK DIBAWAH|"
-echo $i"|"
+echo $i" ____________________________________"
+echo $i"|$pu SILAHKAN PILIH SALAH SATU |"
+echo $i"|____________________________________"
 echo $i"|"
 echo $i"| $pu 1) TEMA WHATSAPP"
 echo $i"| $pu 2) JB-WhatsApp"
