@@ -29,7 +29,7 @@ echo $me"GUNAKAN DENGAN BAIK"
 echo
 sleep 3
 echo $pu"[================]"
-echo $pu"[ $me Wait..."
+echo $pu"[ $me Loading Cokk..."
 echo $pu"[================]"
 sleep 4
 echo
@@ -42,7 +42,7 @@ echo $cy"| $pu 2) JBWhatsApp v1.21"
 echo $cy"| $pu 3) JBWhatsApp v2.21"
 echo $cy"| $pu 4) JBWhatsApp v3.21"
 echo $cy"| $pu 5) Kinemaster Full Mod"
-echo $cy"| $pu 6) MT Manager VIP""
+echo $cy"| $pu 6) MT Manager VIP"
 echo $cy"|"
 echo $cy"|________"
 read -p "#~Make Your Choice :" pil
