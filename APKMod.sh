@@ -17,11 +17,11 @@ endc='\E[0m'
 enda='\033[0m'
 
 echo
-echo $ku" ___________" $i"Version 1.0"
+echo $ku" ___________" $i"APK MOD BY JB MODS"
 echo $ku"▕╮╭┻┻╮╭┻┻╮╭▕╮╲"
-echo $ku"▕╯┃╭╮┃┃╭╮┃╰▕╯╭▏" $pu"APK MOD BY JB-MODS"
-echo $ku"▕╭┻┻┻┛┗┻┻┛   ╰▏"
-echo $ku"▕╰━━━┓┈┈┈╭╮▕╭╮▏" $pu"Author : JB Mods"
+echo $ku"▕╯┃╭╮┃┃╭╮┃╰▕╯╭▏"
+echo $ku"▕╭┻┻┻┛┗┻┻┛   ╰▏" $pu"Author : JB Mods"
+echo $ku"▕╰━━━┓┈┈┈╭╮▕╭╮▏" $pu"Github : jbmods-cyber"
 echo $ku"▕╭╮╰┳┳┳┳╯╰╯▕╰╯▏" $pu"Youtube: Bngst Story"
 echo $ku"▕╰╯┈┗┛┗┛┈╭╮▕╮┈▏" $pu"Contact: 0857-8540-2747"
 echo
@@ -33,7 +33,7 @@ echo $pu" $me Loading Cokk..."
 echo $pu"[======================]"
 sleep 4
 echo
-echo $i" ___________________________"
+echo $i" ______________________________"
 echo $i"|$pu SILAHKAN PILIH APK DIBAWAH|"
 echo $i"|"
 echo $i"|"
@@ -44,8 +44,8 @@ echo $i"| $pu 4) MT Manager VIP"
 echo $i"| $pu 5) Follow Instagram"
 echo $i"| $pu 6) Subscribe YouTube"
 echo $i"|"
-echo $i"|________"
-read -p "Tulis Angka Yang Anda Pilih :" pil
+echo $i"|______________________________"
+read -p "Masukan Angka Yang Anda Pilih :" pil
 
 case $pil in
 
